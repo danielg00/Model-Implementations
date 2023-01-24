@@ -1,0 +1,31 @@
+* TODO MODELS
+- [ ] Supervised Models [0/6]:
+  - [ ] Feed forward NN
+  - [ ] Convolutional NN
+  - [ ] Residual NN
+  - [ ] Recurrent NN
+  - [ ] LSTM
+  - [ ] Attention/Transformers
+- [ ] Unsupervised Models [0/7]:
+  - [ ] RBMs
+  - [ ] GANS
+  - [ ] VAE
+  - [ ] Normalised Flows
+  - [ ] Something that samples using MCM
+  - [ ] Something that samples using Hamiltonian Monte Carlo
+  - [ ] Manifold Learning
+- [ ] Reinforcement Learning Models [0/3]:
+  - [ ] A3C
+  - [ ] DQN
+  - [ ] TDM
+- [ ] Others [0/2]: 
+  - [ ] Causal Graphical Models
+  - [ ] Description logic
+
+
+
+
+
+
+-------------
+  - [ ] 
